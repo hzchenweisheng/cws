@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+这里新增的是master
 <projectDescription>
+这里新增了develop
 	<name>WEB_PJ</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
+		
 			<name>org.eclipse.wst.jsdt.core.javascriptValidator</name>
 			<arguments>
 			</arguments>
